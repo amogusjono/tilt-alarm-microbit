@@ -1,5 +1,8 @@
 
 > Open this page at [https://amogusjono.github.io/tilt-alarm-microbit/](https://amogusjono.github.io/tilt-alarm-microbit/)
+>
+
+This project has code that will only work on the microbit v2. this might be a bit annoying if you only have a microbit v1 so feel free to change the code ONLY LOCALLY please save this and alter the file saved locally never change the public code.
 
 ## Use as Extension
 
